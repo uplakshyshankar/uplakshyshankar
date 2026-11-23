@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there I am Uplakshy shankar 👋
+I'm a BTECH 1 year student.
+I am learning c++ and python in 1st semester.
+👉🏻
+problem solver
 <!--
 **uplakshyshankar/uplakshyshankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
